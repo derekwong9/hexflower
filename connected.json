@@ -1,0 +1,287 @@
+[
+  {
+    "q": -3,
+    "r": -4,
+    "value": "forest"
+  },
+  {
+    "q": -2,
+    "r": -4,
+    "value": "forest"
+  },
+  {
+    "q": -1,
+    "r": -4,
+    "value": "mountains"
+  },
+  {
+    "q": 5,
+    "r": -4,
+    "value": "mountains"
+  },
+  {
+    "q": 6,
+    "r": -4,
+    "value": "hills"
+  },
+  {
+    "q": 7,
+    "r": -4,
+    "value": "marsh"
+  },
+  {
+    "q": -4,
+    "r": -3,
+    "value": "forest"
+  },
+  {
+    "q": -3,
+    "r": -3,
+    "value": "forest"
+  },
+  {
+    "q": -2,
+    "r": -3,
+    "value": "mountains"
+  },
+  {
+    "q": -1,
+    "r": -3,
+    "value": "mountains"
+  },
+  {
+    "q": 4,
+    "r": -3,
+    "value": "mountains"
+  },
+  {
+    "q": 5,
+    "r": -3,
+    "value": "mountains"
+  },
+  {
+    "q": 6,
+    "r": -3,
+    "value": "marsh"
+  },
+  {
+    "q": 7,
+    "r": -3,
+    "value": "marsh"
+  },
+  {
+    "q": -5,
+    "r": -2,
+    "value": "forest"
+  },
+  {
+    "q": -4,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": -3,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": -2,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": -1,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 0,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 1,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 2,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 3,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 4,
+    "r": -2,
+    "value": "hills"
+  },
+  {
+    "q": 5,
+    "r": -2,
+    "value": "grassland"
+  },
+  {
+    "q": 6,
+    "r": -2,
+    "value": "forest"
+  },
+  {
+    "q": 7,
+    "r": -2,
+    "value": "forest"
+  },
+  {
+    "q": -5,
+    "r": -1,
+    "value": "mountains"
+  },
+  {
+    "q": -4,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": -3,
+    "r": -1,
+    "value": "forest"
+  },
+  {
+    "q": -2,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": -1,
+    "r": -1,
+    "value": "marsh"
+  },
+  {
+    "q": 0,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": 1,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": 2,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": 3,
+    "r": -1,
+    "value": "grassland"
+  },
+  {
+    "q": 4,
+    "r": -1,
+    "value": "forest"
+  },
+  {
+    "q": 5,
+    "r": -1,
+    "value": "marsh"
+  },
+  {
+    "q": 6,
+    "r": -1,
+    "value": "marsh"
+  },
+  {
+    "q": -5,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": -4,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": -3,
+    "r": 0,
+    "value": "hills"
+  },
+  {
+    "q": -2,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": -1,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": 0,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": 1,
+    "r": 0,
+    "value": "forest"
+  },
+  {
+    "q": 2,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": 3,
+    "r": 0,
+    "value": "marsh"
+  },
+  {
+    "q": 4,
+    "r": 0,
+    "value": "forest"
+  },
+  {
+    "q": 5,
+    "r": 0,
+    "value": "grassland"
+  },
+  {
+    "q": -2,
+    "r": 1,
+    "value": "grassland"
+  },
+  {
+    "q": -1,
+    "r": 1,
+    "value": "grassland"
+  },
+  {
+    "q": 0,
+    "r": 1,
+    "value": "grassland"
+  },
+  {
+    "q": 1,
+    "r": 1,
+    "value": "grassland"
+  },
+  {
+    "q": -2,
+    "r": 2,
+    "value": "forest"
+  },
+  {
+    "q": -1,
+    "r": 2,
+    "value": "marsh"
+  },
+  {
+    "q": 0,
+    "r": 2,
+    "value": "marsh"
+  }
+]
